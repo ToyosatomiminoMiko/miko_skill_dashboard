@@ -1,0 +1,9 @@
+# 运行产物与本地工具链：不进仓库
+.tools/
+.rea/
+node_modules/
+
+# 本地临时物
+chrome-profile/
+*.log
+.DS_Store

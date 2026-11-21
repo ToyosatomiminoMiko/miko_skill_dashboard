@@ -1,0 +1,5 @@
+- insert:
+    - id: skill-dashboard
+      name: '@local/skill-dashboard'
+      config:
+        apiKeyRef: DEEPSEEK_API_KEY

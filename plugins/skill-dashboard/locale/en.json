@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Skill dashboard",
+    "description": "A dashboard panel with the configured API key and the loaded and not-enabled skills, plus an inline skill matrix on the new-session page that picks what this session exposes."
+  }
+}
